@@ -1,0 +1,4 @@
+-Hey, I'm Swetank.
+-I'm from India.
+-I'm currently learning C++.
+-I'm also pursuing Computer Engineering from Pune, Maharashtra.
