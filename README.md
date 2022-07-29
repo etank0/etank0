@@ -1,4 +1,7 @@
-### -Hey!
-#### -I'm from India.
-#### -I'm currently learning C++.
-#### -I'm also pursuing Computer Engineering.
+## - Hey! :D
+
+#### About Me?
+#### - I'm from India.
+#### - Currently learning C++ and Python.
+#### - Pursuing Computer Engineering.
+#### - A Linux(gnu/linux) Enthusiast.
