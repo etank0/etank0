@@ -1,4 +1,6 @@
-![logo gif](https://github.com/etank0/etank0/blob/main/etank0-transparent.png "etank0 logo gif")
+<div style="display:flex; align-items: center; justify-content: center;">
+ <img src="https://github.com/etank0/etank0/blob/main/etank0-transparent.gif" width="40" height="40" />
+</div>
 ```
 [etank0@github]~ $ ./about-me
 
