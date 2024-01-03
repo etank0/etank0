@@ -1,6 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:center;">
- <img src="https://github.com/etank0/etank0/blob/main/etank0-transparent.gif" width="300" height="300" />
-</div>
+<img src="https://github.com/etank0/etank0/blob/main/etank0-transparent.gif" width="500" height="500" />
 
 ```
 [etank0@github]~ $ ./about-me
