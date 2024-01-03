@@ -1,4 +1,4 @@
-<img src="https://github.com/etank0/etank0/blob/main/etank0-transparent.gif" width="500" height="500" />
+<img src="https://github.com/etank0/etank0/blob/main/etank0-transparent.gif" width="400" height="400" />
 
 ```
 [etank0@github]~ $ ./about-me
