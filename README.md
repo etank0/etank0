@@ -1,3 +1,4 @@
+![logo gif](https://github.com/etank0/etank0/blob/main/etank0-transparent.png "etank0 logo gif")
 ```
 [etank0@github]~ $ ./about-me
 
