@@ -1,4 +1,7 @@
-<img src="https://github.com/etank0/etank0/blob/main/fast-etank0.gif" width="400" height="400" style="border : 2px; border-radius : 10px;" >
+
+<img src="https://github.com/etank0/etank0/blob/main/circle-gif.gif" height=200 width=200>
+
+![](https://komarev.com/ghpvc/?username=etank0&label=Visits&style=flat&color=272a32)
 
 ```
 [etank0@github]~ $ ./about-me
