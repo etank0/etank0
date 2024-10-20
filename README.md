@@ -18,6 +18,5 @@
 </a>
 </p>
 
-<br>
-
+## <img src="https://github.com/etank0/etank0/blob/main/images/chart-areaspline.svg" width ="40"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etank0&show_icons=true&locale=en&theme=github_dark_dimmed" alt="etank0-stats" /></p>
