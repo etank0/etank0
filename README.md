@@ -14,7 +14,7 @@
 ## <img src="https://github.com/etank0/etank0/blob/main/images/code-tags.svg" alt="skills" width ="40"> 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,haskell,rust,python,cpp,javascript,typescript,react,nodejs,express,mongodb,postgres,mysql&perline=7"  height="70" alt="skills">
+    <img src="https://skillicons.dev/icons?i=bash,neovim,vscode,haskell,rust,python,cpp,javascript,typescript,react,nodejs,express,flask,mongodb,postgres,mysql&perline=8"  height="70" alt="skills">
 </a>
 </p>
 
