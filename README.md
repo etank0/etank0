@@ -1,6 +1,7 @@
 
 <img src="https://github.com/etank0/etank0/blob/main/circle-gif.gif" height=200 width=200 alt="etank0-gif">
-![](https://komarev.com/ghpvc/?username=etank0&style=flat)
+
+![](https://komarev.com/ghpvc/?username=etank0&label=Visits&style=flat&color=273c52)
 <br>
 
 ```
