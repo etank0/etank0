@@ -9,7 +9,7 @@
 
  Hey! :D
  - I'm from India. 🇮🇳
- - Currently pursuing Computer Engineering. 🎓
+ - Software Engineer. 👨‍💻
  - Linux(GNU/Linux) User. 🐧
 ```
 
